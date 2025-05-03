@@ -2,7 +2,7 @@
 
 A fun, interactive quiz application that tests your knowledge about cats using facts from the Cat Facts API.
 
-<img src="./figures/app-screenshot.png" alt="Cat Facts Quiz Screenshot" width="404" height="904">
+<img src="./figures/app-screenshot.png" alt="Cat Facts Quiz Screenshot">
 
 ## Features
 
