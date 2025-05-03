@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Cat Fact Quiz App',
-  description: 'Fun fact about cats!!!',
+  description: 'For Cat Lover:: You can learn more about fun fact about cats!!!',
   generator: 'Thinakone',
 }
 
