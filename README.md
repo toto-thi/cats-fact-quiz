@@ -2,7 +2,7 @@
 
 A fun, interactive quiz application that tests your knowledge about cats using facts from the Cat Facts API.
 
-![Cat Facts Quiz Screenshot]('/figures/app-screenshot.png')
+<img src="./figures/app-screenshot.png" alt="Cat Facts Quiz Screenshot" width="404" height="904">
 
 ## Features
 
@@ -58,11 +58,11 @@ pnpm dev
 
 The application fetches cat facts from the [Cat Facts API](https://catfact.ninja/) and transforms them into quiz questions. The quiz includes:
 
-    1. **Predefined Questions**: Expert-created questions about cat biology, behavior, and characteristics
-    2. **API-Based Questions**: Questions generated directly from the cat facts, including:
-        - True/False questions
-        - Fill-in-the-blank questions
-        - "Which statement is true" questions
+1. **Predefined Questions**: Expert-created questions about cat biology, behavior, and characteristics
+2. **API-Based Questions**: Questions generated directly from the cat facts, including:
+    - True/False questions
+    - Fill-in-the-blank questions
+    - "Which statement is true" questions
 
 ### Question Variety
 
