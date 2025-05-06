@@ -89,8 +89,9 @@ cat-facts-quiz/
 │   ├── page.tsx         # Main page component
 │   └── layout.tsx       # App layout
 ├── components/
-│   ├── cat-quiz.tsx     # Main quiz component
+│   ├── CatQuiz/         # Main quiz component
 │   └── ui/              # UI components
+├── utils/               # Handling quiz generated
 └── README.md            
 ```
 
