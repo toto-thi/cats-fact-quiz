@@ -1,0 +1,1 @@
+export { CatQuiz } from "./CatQuiz"

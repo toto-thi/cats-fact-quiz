@@ -1,4 +1,5 @@
-import { CatQuiz } from "@/components/cat-quiz"
+// import { CatQuiz } from "@/components/cat-quiz"
+import { CatQuiz } from "@/components/CatQuiz"
 
 export default function Home() {
   return (
